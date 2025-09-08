@@ -1,6 +1,6 @@
 # 🚀 Algo Trading with DCRNN (Diffusion Graph Convolutional Recurrent Neural Network)
 
-A sophisticated algorithmic trading system that uses Deep Graph Convolutional Recurrent Neural Networks (DCRNN) to predict stock prices by leveraging both temporal patterns and inter-stock relationships in the market.
+A sophisticated algorithmic trading system that uses Diffusion Graph Convolutional Recurrent Neural Networks (DCRNN) to predict stock prices by leveraging both temporal patterns and inter-stock relationships in the market.
 
 ## 📋 Table of Contents
 
